@@ -9,3 +9,4 @@ change
 
 main
 >>>>>>> main
+This is an example of git stash
