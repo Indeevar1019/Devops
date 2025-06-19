@@ -1,5 +1,11 @@
 Hello from other branch
 
+<<<<<<< HEAD
 change 
 
 develop
+=======
+change
+
+main
+>>>>>>> main
